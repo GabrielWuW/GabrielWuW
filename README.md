@@ -1,2 +1,1 @@
-[![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielWuW&hide=issues&show_icons=true&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9&bg_color=282a36)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielWuW&layout=compact&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9&bg_color=282a36)](https://github.com/anuraghazra/github-readme-stats)
+
